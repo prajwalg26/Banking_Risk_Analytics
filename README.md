@@ -69,15 +69,4 @@ It integrates **DAX measures** and **KPI metrics** to deliver actionable insight
 
 ---
 
-## KPIs Tracked
-1. Total Loan Amount Approved & Disbursed  
-2. Loan Default Rate  
-3. Delinquency Rate by Risk Category  
-4. Active vs Inactive Clients  
-5. Total Deposits & Deposit Frequency  
-6. Client Churn Rate  
-
----
-
-Some example SQL/DAX snippets:
 
